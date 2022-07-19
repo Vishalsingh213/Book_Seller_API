@@ -1,0 +1,324 @@
+﻿++Solution 'BookSellerAPI' ‎(4 of 4 projects)
+i:{00000000-0000-0000-0000-000000000000}:BookSellerAPI.sln
+++API
+i:{00000000-0000-0000-0000-000000000000}:API
+++Connected Services 
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:>590
+++Dependencies
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:>589
+i:{ea6ee97c-6090-4dc9-b66a-dc5df5ce49b2}:>450
+i:{cafe8247-009b-4182-8da4-a02740526e61}:>452
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:>451
+++Properties
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\api\properties\
+++Controllers
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\api\controllers\
+++ApiControllerBase.cs
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\api\controllers\apicontrollerbase.cs
+++UserController.cs
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\api\controllers\usercontroller.cs
+++WeatherForecastController.cs
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\api\controllers\weatherforecastcontroller.cs
+++Services
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\api\services\
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\infrastructure\services\
+++CurrentUserService.cs
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\api\services\currentuserservice.cs
+++appsettings.json
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\api\appsettings.json
+++Program.cs
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\api\program.cs
+++Startup.cs
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\api\startup.cs
+++WeatherForecast.cs
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\api\weatherforecast.cs
+++No service dependencies discovered
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:>591
+++Analyzers
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:analyzers
+i:{ea6ee97c-6090-4dc9-b66a-dc5df5ce49b2}:analyzers
+i:{cafe8247-009b-4182-8da4-a02740526e61}:analyzers
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:analyzers
+++Frameworks
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:frameworks
+i:{ea6ee97c-6090-4dc9-b66a-dc5df5ce49b2}:frameworks
+i:{cafe8247-009b-4182-8da4-a02740526e61}:frameworks
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:frameworks
+++Packages
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:packages
+i:{ea6ee97c-6090-4dc9-b66a-dc5df5ce49b2}:packages
+i:{cafe8247-009b-4182-8da4-a02740526e61}:packages
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:packages
+++Projects
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:projects
+i:{cafe8247-009b-4182-8da4-a02740526e61}:projects
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:projects
+++launchSettings.json
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\api\properties\launchsettings.json
+++appsettings.Development.json
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\api\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{ea6ee97c-6090-4dc9-b66a-dc5df5ce49b2}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{ea6ee97c-6090-4dc9-b66a-dc5df5ce49b2}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:c:\users\visha\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.17\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.17\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:c:\users\visha\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.17\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\api\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\api\microsoft.netcore.app
+i:{ea6ee97c-6090-4dc9-b66a-dc5df5ce49b2}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\core\microsoft.netcore.app
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\microsoft.netcore.app
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\infrastructure\microsoft.netcore.app
+++AutoMapper (11.0.1)
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+++Dapper (2.0.90)
+++MediatR (9.0.0)
+i:{cafe8247-009b-4182-8da4-a02740526e61}:>622
+++MediatR.Extensions.Microsoft.DependencyInjection (9.0.0)
+i:{cafe8247-009b-4182-8da4-a02740526e61}:>628
+++Microsoft.AspNetCore.Cors (2.2.0)
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:>663
+i:{ea6ee97c-6090-4dc9-b66a-dc5df5ce49b2}:>641
+i:{cafe8247-009b-4182-8da4-a02740526e61}:>621
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:>602
+++Microsoft.EntityFrameworkCore (5.0.17)
+i:{cafe8247-009b-4182-8da4-a02740526e61}:>618
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:>599
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.17)
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:>600
+++Microsoft.EntityFrameworkCore.Tools (5.0.17)
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:>607
+++Microsoft.Extensions.Configuration.Json (5.0.0)
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:>665
+i:{ea6ee97c-6090-4dc9-b66a-dc5df5ce49b2}:>643
+i:{cafe8247-009b-4182-8da4-a02740526e61}:>624
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:>604
+++Microsoft.Extensions.Diagnostics.HealthChecks (5.0.7)
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:>658
+++Swashbuckle.AspNetCore (5.6.3)
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:>662
+++System.Data.SqlClient (4.8.2)
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:>666
+i:{ea6ee97c-6090-4dc9-b66a-dc5df5ce49b2}:>644
+i:{cafe8247-009b-4182-8da4-a02740526e61}:>625
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:>605
+++Application
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\application.csproj
+i:{00000000-0000-0000-0000-000000000000}:Application
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\application.csproj
+++Infrastructure
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\infrastructure\infrastructure.csproj
+i:{00000000-0000-0000-0000-000000000000}:Infrastructure
+++Core
+i:{00000000-0000-0000-0000-000000000000}:Core
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\core\core.csproj
+++Common
+i:{ea6ee97c-6090-4dc9-b66a-dc5df5ce49b2}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\core\common\
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\common\
+++AuditableEntity.cs
+i:{ea6ee97c-6090-4dc9-b66a-dc5df5ce49b2}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\core\common\auditableentity.cs
+++StreamExtensions.cs
+i:{ea6ee97c-6090-4dc9-b66a-dc5df5ce49b2}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\core\common\streamextensions.cs
+++Entitites
+i:{ea6ee97c-6090-4dc9-b66a-dc5df5ce49b2}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\core\entitites\
+++Role.cs
+i:{ea6ee97c-6090-4dc9-b66a-dc5df5ce49b2}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\core\entitites\role.cs
+++RoleToClaim.cs
+i:{ea6ee97c-6090-4dc9-b66a-dc5df5ce49b2}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\core\entitites\roletoclaim.cs
+++User.cs
+i:{ea6ee97c-6090-4dc9-b66a-dc5df5ce49b2}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\core\entitites\user.cs
+++UserToRole.cs
+i:{ea6ee97c-6090-4dc9-b66a-dc5df5ce49b2}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\core\entitites\usertorole.cs
+++Repositories
+i:{ea6ee97c-6090-4dc9-b66a-dc5df5ce49b2}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\core\repositories\
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\infrastructure\repositories\
+++Base
+i:{ea6ee97c-6090-4dc9-b66a-dc5df5ce49b2}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\core\repositories\base\
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\infrastructure\repositories\base\
+++IUserRepository.cs
+i:{ea6ee97c-6090-4dc9-b66a-dc5df5ce49b2}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\core\repositories\iuserrepository.cs
+++IRepository.cs
+i:{ea6ee97c-6090-4dc9-b66a-dc5df5ce49b2}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\core\repositories\base\irepository.cs
+++Behaviours
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\common\behaviours\
+++UnhandledExceptionBehaviour.cs
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\common\behaviours\unhandledexceptionbehaviour.cs
+++ValidationBehaviour.cs
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\common\behaviours\validationbehaviour.cs
+++Constants
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\common\constants\
+++ApplicationConstants.cs
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\common\constants\applicationconstants.cs
+++CommonUtility.cs
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\common\constants\commonutility.cs
+++DapperConstants.cs
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\common\constants\dapperconstants.cs
+++Interfaces
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\common\interfaces\
+++IApplicationDbContext.cs
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\common\interfaces\iapplicationdbcontext.cs
+++ICurrentUserService.cs
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\common\interfaces\icurrentuserservice.cs
+++Methods
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\common\methods\
+++DapperContext.cs
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\common\dappercontext.cs
+++LoginCQ
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\logincq\
+++Command
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\logincq\command\
+++Mappers
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\logincq\mappers\
+++UserMapper.cs
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\logincq\mappers\usermapper.cs
+++UserMappingProfile.cs
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\logincq\mappers\usermappingprofile.cs
+++Querries
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\logincq\querries\
+++GetUsersQuerry.cs
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\logincq\querries\getusersquerry.cs
+++ViewModel
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\logincq\viewmodel\
+++UserDto.cs
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\logincq\viewmodel\userdto.cs
+++DependencyInjection.cs
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\dependencyinjection.cs
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\infrastructure\dependencyinjection.cs
+++CommonMethods.cs
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\common\methods\commonmethods.cs
+++FluentValidation (11.1.0)
+i:{cafe8247-009b-4182-8da4-a02740526e61}:>623
+++Data
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\infrastructure\data\
+++Persistence
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\infrastructure\persistence\
+++ApplicationDbContext.cs
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\infrastructure\persistence\applicationdbcontext.cs
+++UserRepository.cs
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\infrastructure\repositories\userrepository.cs
+++UserContext.cs
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\infrastructure\data\usercontext.cs
+++Repository.cs
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\infrastructure\repositories\base\repository.cs
+++Dapper (2.0.123)
+i:{cafe8247-009b-4182-8da4-a02740526e61}:>704
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:>705
+++RoleToCalim.cs
+++Migrations
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\infrastructure\migrations\
+++20220714082407_MyMigration.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\infrastructure\migrations\applicationdbcontextmodelsnapshot.cs
+++20220714082407_MyMigration.Designer.cs
+++20220714082547_Initial.cs
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\infrastructure\migrations\20220714082547_initial.cs
+++20220714082547_Initial.Designer.cs
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\infrastructure\migrations\20220714082547_initial.designer.cs
+++Login.cs
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\logincq\querries\login.cs
+++LoginResponse.cs
+++LoginResponseDto.cs
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\logincq\viewmodel\loginresponsedto.cs
+++OtpValidation.cs
+i:{ea6ee97c-6090-4dc9-b66a-dc5df5ce49b2}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\core\entitites\otpvalidation.cs
+++20220714131828_otp.cs
+++20220714131828_otp.Designer.cs
+++20220714132124_otp.cs
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\infrastructure\migrations\20220714132124_otp.cs
+++20220714132124_otp.Designer.cs
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\infrastructure\migrations\20220714132124_otp.designer.cs
+++20220714142024_otpvalidationchange.cs
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\infrastructure\migrations\20220714142024_otpvalidationchange.cs
+++20220714142024_otpvalidationchange.Designer.cs
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\infrastructure\migrations\20220714142024_otpvalidationchange.designer.cs
+++PartialResponse.AspNetCore.Mvc.Formatters.Json (5.1.0)
+i:{cafe8247-009b-4182-8da4-a02740526e61}:>743
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:>744
+++Models.cs
+++NewFolder
+++Models
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\common\models\
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\api\models\
+++JsonResponse.cs
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\common\models\jsonresponse.cs
+++TwoFactorAuthentication.cs
+++OTPResponseDto.cs
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\logincq\viewmodel\otpresponsedto.cs
+++OtpValidationCommand.cs
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\logincq\command\otpvalidationcommand.cs
+++Microsoft.Extensions.DependencyInjection.Abstractions (7.0.0-preview.6.22324.4)
+++Microsoft.Extensions.DependencyInjection (7.0.0-preview.6.22324.4)
+++Microsoft.Extensions.DependencyInjection (5.0.2)
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:>765
+++Microsoft.EntityFrameworkCore.Design (5.0.17)
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:>768
+++Microsoft.Extensions.DependencyInjection.Abstractions (5.0.0)
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:>770
+i:{cafe8247-009b-4182-8da4-a02740526e61}:>769
+++AutoMapper.Extensions.Microsoft.DependencyInjection (8.1.1)
+i:{cafe8247-009b-4182-8da4-a02740526e61}:>771
+i:{ea6ee97c-6090-4dc9-b66a-dc5df5ce49b2}:>774
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:>775
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:>776
+++FluentValidation.DependencyInjectionExtensions (10.2.3)
+i:{cafe8247-009b-4182-8da4-a02740526e61}:>777
+++System.IdentityModel.Tokens.Jwt (6.11.1)
+i:{cafe8247-009b-4182-8da4-a02740526e61}:>778
+++IMailService.cs
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\common\interfaces\imailservice.cs
+++IDateTime.cs
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\common\interfaces\idatetime.cs
+++IJwtDecodeWrapper.cs
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\common\interfaces\ijwtdecodewrapper.cs
+++CustomLogger.cs
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\infrastructure\services\customlogger.cs
+++DateTimeService.cs
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\infrastructure\services\datetimeservice.cs
+++JwtDecodeService.cs
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\infrastructure\services\jwtdecodeservice.cs
+++SendGridMailService.cs
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\infrastructure\services\sendgridmailservice.cs
+++SendGrid (9.24.0)
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:>798
+i:{cafe8247-009b-4182-8da4-a02740526e61}:>797
+++Microsoft.AspNetCore.Authentication.JwtBearer (5.0.17)
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:>803
+i:{94cabc4e-80ab-4ba9-9716-b7abbca9def1}:>804
+++Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore (5.0.7)
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:>807
+++Serilog.AspNetCore (4.1.0)
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:>808
+++OtpValidationQuerry.cs
+++TOkens.cs
+++Tokens.cs
+i:{ea6ee97c-6090-4dc9-b66a-dc5df5ce49b2}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\core\entitites\tokens.cs
+++IJWTManagerRepository.cs
+++JWTManagerRepository.cs
+++Users.cs
+i:{ea6ee97c-6090-4dc9-b66a-dc5df5ce49b2}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\core\entitites\users.cs
+++TokenModel.cs
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\common\models\tokenmodel.cs
+++JwtIssuerOptions.cs
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\common\models\jwtissueroptions.cs
+++AuthResponseDto.cs
+i:{2e4c32d3-eacd-4027-886f-0ffb2ea20ef6}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\api\models\authresponsedto.cs
+++TwoFactorDto.cs
+++UserAvailabilityDto.cs
+++UserLoginDto.cs
+++UpdateUserLoggedInStatusQuery.cs
+i:{cafe8247-009b-4182-8da4-a02740526e61}:c:\users\visha\onedrive\documents\project\book seller\booksellerweb\booksellerapi\application\logincq\command\updateuserloggedinstatusquery.cs

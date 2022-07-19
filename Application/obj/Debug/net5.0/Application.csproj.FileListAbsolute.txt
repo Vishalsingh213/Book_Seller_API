@@ -1,0 +1,15 @@
+C:\Users\visha\OneDrive\Documents\Project\Book seller\BookSellerWEB\BookSellerAPI\Application\bin\Debug\net5.0\Application.deps.json
+C:\Users\visha\OneDrive\Documents\Project\Book seller\BookSellerWEB\BookSellerAPI\Application\bin\Debug\net5.0\Application.dll
+C:\Users\visha\OneDrive\Documents\Project\Book seller\BookSellerWEB\BookSellerAPI\Application\bin\Debug\net5.0\Application.pdb
+C:\Users\visha\OneDrive\Documents\Project\Book seller\BookSellerWEB\BookSellerAPI\Application\bin\Debug\net5.0\Core.dll
+C:\Users\visha\OneDrive\Documents\Project\Book seller\BookSellerWEB\BookSellerAPI\Application\bin\Debug\net5.0\Core.pdb
+C:\Users\visha\OneDrive\Documents\Project\Book seller\BookSellerWEB\BookSellerAPI\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+C:\Users\visha\OneDrive\Documents\Project\Book seller\BookSellerWEB\BookSellerAPI\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\OneDrive\Documents\Project\Book seller\BookSellerWEB\BookSellerAPI\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+C:\Users\visha\OneDrive\Documents\Project\Book seller\BookSellerWEB\BookSellerAPI\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+C:\Users\visha\OneDrive\Documents\Project\Book seller\BookSellerWEB\BookSellerAPI\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\visha\OneDrive\Documents\Project\Book seller\BookSellerWEB\BookSellerAPI\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+C:\Users\visha\OneDrive\Documents\Project\Book seller\BookSellerWEB\BookSellerAPI\Application\obj\Debug\net5.0\Application.dll
+C:\Users\visha\OneDrive\Documents\Project\Book seller\BookSellerWEB\BookSellerAPI\Application\obj\Debug\net5.0\refint\Application.dll
+C:\Users\visha\OneDrive\Documents\Project\Book seller\BookSellerWEB\BookSellerAPI\Application\obj\Debug\net5.0\Application.pdb
+C:\Users\visha\OneDrive\Documents\Project\Book seller\BookSellerWEB\BookSellerAPI\Application\obj\Debug\net5.0\ref\Application.dll
