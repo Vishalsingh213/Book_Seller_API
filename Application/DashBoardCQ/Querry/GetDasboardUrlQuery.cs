@@ -23,8 +23,8 @@ namespace Application.DashBoardCQ.Querry
                 var client = getUrl();
                 var urlResponse = await client.GetDashboardEmbedUrlAsync(new GetDashboardEmbedUrlRequest
                 {
-                    AwsAccountId= "953070155272",
-                    DashboardId = "9ea06167-6fc9-439a-abb9-e41cbddf5b38",
+                    AwsAccountId= "",
+                    DashboardId = "",
                     IdentityType = EmbeddingIdentityType.IAM,
                     ResetDisabled = true,
                     SessionLifetimeInMinutes = 600,
