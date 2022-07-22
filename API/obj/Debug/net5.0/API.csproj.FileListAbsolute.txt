@@ -96,3 +96,6 @@ C:\Users\visha\OneDrive\Documents\Project\Book seller\BookSellerWEB\BookSellerAP
 C:\Users\visha\OneDrive\Documents\Project\Book seller\BookSellerWEB\BookSellerAPI\API\bin\Debug\net5.0\Serilog.Sinks.Console.dll
 C:\Users\visha\OneDrive\Documents\Project\Book seller\BookSellerWEB\BookSellerAPI\API\bin\Debug\net5.0\Serilog.Sinks.Debug.dll
 C:\Users\visha\OneDrive\Documents\Project\Book seller\BookSellerWEB\BookSellerAPI\API\bin\Debug\net5.0\Serilog.Sinks.File.dll
+C:\Users\visha\OneDrive\Documents\Project\Book seller\BookSellerWEB\BookSellerAPI\API\bin\Debug\net5.0\AWSSDK.Core.dll
+C:\Users\visha\OneDrive\Documents\Project\Book seller\BookSellerWEB\BookSellerAPI\API\bin\Debug\net5.0\AWSSDK.QuickSight.dll
+C:\Users\visha\OneDrive\Documents\Project\Book seller\BookSellerWEB\BookSellerAPI\API\bin\Debug\net5.0\Docker.DotNet.dll

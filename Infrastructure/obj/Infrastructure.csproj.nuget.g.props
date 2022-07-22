@@ -17,5 +17,7 @@
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgMicrosoft_EntityFrameworkCore_Tools Condition=" '$(PkgMicrosoft_EntityFrameworkCore_Tools)' == '' ">C:\Users\visha\.nuget\packages\microsoft.entityframeworkcore.tools\5.0.17</PkgMicrosoft_EntityFrameworkCore_Tools>
+    <PkgAWSSDK_Core Condition=" '$(PkgAWSSDK_Core)' == '' ">C:\Users\visha\.nuget\packages\awssdk.core\3.7.12.10</PkgAWSSDK_Core>
+    <PkgAWSSDK_QuickSight Condition=" '$(PkgAWSSDK_QuickSight)' == '' ">C:\Users\visha\.nuget\packages\awssdk.quicksight\3.7.12.5</PkgAWSSDK_QuickSight>
   </PropertyGroup>
 </Project>

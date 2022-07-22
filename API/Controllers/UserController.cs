@@ -1,11 +1,14 @@
 ﻿using Api.Controllers;
 using Application.Common.Interfaces;
+using Application.LoginCQ;
+using Application.LoginCQ.Querries;
 using Application.UserCQ.Query;
 using Application.UserCQ.ViewModel;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 using System;
+using System.Collections.Generic;
 using System.Threading.Tasks;
 
 namespace API.Controllers
@@ -41,6 +44,19 @@ namespace API.Controllers
             }
 
 
+        }
+        [HttpGet("GetUserList")]
+        public async Task<List<UserDto>> GetUserList([FromQuery] GetUsersQuerry query)
+        {
+            try
+            {
+                return await Mediator.Send(query);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, ex.Message);
+                throw new Exception(ex.Message);
+            }
         }
 
     }

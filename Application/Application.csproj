@@ -6,7 +6,9 @@
 
   <ItemGroup>
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="AWSSDK.QuickSight" Version="3.7.12.5" />
     <PackageReference Include="Dapper" Version="2.0.123" />
+    <PackageReference Include="Docker.DotNet" Version="3.125.10" />
     <PackageReference Include="FluentValidation" Version="11.1.0" />
     <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="10.2.3" />
     <PackageReference Include="MediatR" Version="9.0.0" />
@@ -23,6 +25,10 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Core\Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DashBoardCQ\Command\" />
   </ItemGroup>
 
 </Project>

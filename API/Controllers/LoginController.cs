@@ -40,19 +40,7 @@ namespace API.Controllers
         }
 
 
-        [HttpGet("GetUserList")]
-        public async Task<List<UserDto>> GetUserList([FromQuery] GetUsersQuerry query)
-        {
-            try
-            {
-                return await Mediator.Send(query);
-            }
-            catch (Exception ex)
-            {
-                _logger.LogError(ex, ex.Message);
-                throw new Exception(ex.Message);
-            }
-        }
+        
         
         [HttpPost("login")]
         public async Task<LoginResponseDto> login([FromBody] Login query)

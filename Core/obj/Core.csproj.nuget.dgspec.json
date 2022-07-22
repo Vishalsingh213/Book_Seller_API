@@ -45,6 +45,10 @@
               "target": "Package",
               "version": "[8.1.1, )"
             },
+            "Docker.DotNet": {
+              "target": "Package",
+              "version": "[3.125.10, )"
+            },
             "Microsoft.AspNetCore.Cors": {
               "target": "Package",
               "version": "[2.2.0, )"

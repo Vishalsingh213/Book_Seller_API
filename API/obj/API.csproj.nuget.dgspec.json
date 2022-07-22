@@ -48,9 +48,17 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "AWSSDK.QuickSight": {
+              "target": "Package",
+              "version": "[3.7.12.5, )"
+            },
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[8.1.1, )"
+            },
+            "Docker.DotNet": {
+              "target": "Package",
+              "version": "[3.125.10, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
@@ -158,6 +166,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "AWSSDK.QuickSight": {
+              "target": "Package",
+              "version": "[3.7.12.5, )"
+            },
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[8.1.1, )"
@@ -165,6 +177,10 @@
             "Dapper": {
               "target": "Package",
               "version": "[2.0.123, )"
+            },
+            "Docker.DotNet": {
+              "target": "Package",
+              "version": "[3.125.10, )"
             },
             "FluentValidation": {
               "target": "Package",
@@ -275,6 +291,10 @@
               "target": "Package",
               "version": "[8.1.1, )"
             },
+            "Docker.DotNet": {
+              "target": "Package",
+              "version": "[3.125.10, )"
+            },
             "Microsoft.AspNetCore.Cors": {
               "target": "Package",
               "version": "[2.2.0, )"
@@ -355,6 +375,10 @@
             "Dapper": {
               "target": "Package",
               "version": "[2.0.123, )"
+            },
+            "Docker.DotNet": {
+              "target": "Package",
+              "version": "[3.125.10, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",

@@ -12,4 +12,8 @@
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="C:\Users\visha\.nuget\packages\" />
   </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgAWSSDK_Core Condition=" '$(PkgAWSSDK_Core)' == '' ">C:\Users\visha\.nuget\packages\awssdk.core\3.7.12.10</PkgAWSSDK_Core>
+    <PkgAWSSDK_QuickSight Condition=" '$(PkgAWSSDK_QuickSight)' == '' ">C:\Users\visha\.nuget\packages\awssdk.quicksight\3.7.12.5</PkgAWSSDK_QuickSight>
+  </PropertyGroup>
 </Project>
