@@ -15,6 +15,8 @@ namespace Application.Common.Interfaces
         DbSet<RoleToClaim> RoleToCalims { get; set; }
 
         DbSet<OtpValidation> OtpValidations { get; set; }
+        public DbSet<Header> Header { get; set; }
+        public DbSet<QuicksightDashboardKey> QuicksightDashboardKey { get; set; }
 
 
         Task<int> SaveChangesAsync(CancellationToken cancellationToken);

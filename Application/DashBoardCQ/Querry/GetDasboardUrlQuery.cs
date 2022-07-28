@@ -8,46 +8,58 @@ using System.Threading.Tasks;
 using Amazon;
 using Amazon.QuickSight;
 using Amazon.QuickSight.Model;
+using Application.Common.Interfaces;
+using AutoMapper.Configuration;
+using Application.DashBoardCQ.ViewModel;
 
 namespace Application.DashBoardCQ.Querry
 {
-    public class GetDasboardUrlQuery : IRequest<string>
+    public class GetDasboardUrlQuery : IRequest<QuickSightURLDto>
     {
+        public string dashName { get; set; }
     }
-    public class GetDashBoardUrlHandler : IRequestHandler<GetDasboardUrlQuery, string>
+    public class GetDashBoardUrlHandler : IRequestHandler<GetDasboardUrlQuery, QuickSightURLDto>
     {
-        public async Task<string> Handle(GetDasboardUrlQuery request, CancellationToken cancellationToken)
+        private readonly IApplicationDbContext _context;
+        public GetDashBoardUrlHandler(IApplicationDbContext context)
         {
-            try
-            {
-                var client = getUrl();
-                var urlResponse = await client.GetDashboardEmbedUrlAsync(new GetDashboardEmbedUrlRequest
-                {
-                    AwsAccountId= "",
-                    DashboardId = "",
-                    IdentityType = EmbeddingIdentityType.IAM,
-                    ResetDisabled = true,
-                    SessionLifetimeInMinutes = 600,
-                    UndoRedoDisabled = true,
-                });
-                return urlResponse.EmbedUrl;
-            }
-            catch (Exception ex)
-            {
-                return ex.Message;
-            }
-
-           
-
+            _context = context;
         }
-        public AmazonQuickSightClient getUrl()
+
+        public async Task<QuickSightURLDto> Handle(GetDasboardUrlQuery request, CancellationToken cancellationToken)
         {
-             var url= new AmazonQuickSightClient(
-                 "AKIA53Z3IOYENNGJSOM3",
-                 "UJWj9KAnXuMQI7AiNQmlCPZ2YAU3gDtgTwuUaHga",
-                 Amazon.RegionEndpoint.USEast1
-                 );
-            return url;
+            var quickSightURLDto = new QuickSightURLDto()
+            {
+                URL = await GetUrl(request)
+            };
+            
+            return quickSightURLDto;
         }
+
+
+        private async Task<string> GetUrl(GetDasboardUrlQuery request)
+        {
+            var quickSightDashboard = _context.QuicksightDashboardKey.Where(X => X.Key == request.dashName).FirstOrDefault();
+            var client = new AmazonQuickSightClient(
+                             quickSightDashboard.AccessKey,
+                             quickSightDashboard.SecretAcessKey,
+                             Amazon.RegionEndpoint.USEast1
+                     );
+
+            //Generate Embed URL
+            var urlReponse = await client.GetDashboardEmbedUrlAsync(new GetDashboardEmbedUrlRequest
+            {
+                AwsAccountId = quickSightDashboard.AwsAccountId,
+                DashboardId = quickSightDashboard.DashboardId,
+                IdentityType = EmbeddingIdentityType.IAM,
+                ResetDisabled = true,
+                SessionLifetimeInMinutes = 600,
+                UndoRedoDisabled = true,
+            });
+
+            return urlReponse.EmbedUrl;
+        }
+
     }
 }
+

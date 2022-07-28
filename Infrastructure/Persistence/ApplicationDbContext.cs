@@ -38,6 +38,8 @@ namespace Infrastructure.Persistence
         public DbSet<UserToRole> UserRoles { get; set; }
         public DbSet<RoleToClaim> RoleToCalims { get; set; }
         public DbSet<OtpValidation> OtpValidations { get ; set ; }
+        public DbSet<Header> Header { get ; set ; }
+        public DbSet<QuicksightDashboardKey> QuicksightDashboardKey { get ; set ; }
 
         public override async Task<int> SaveChangesAsync(CancellationToken cancellationToken = new CancellationToken())
         {
